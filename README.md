@@ -1,2 +1,2 @@
 # coursera-courses
-The Coursera coursera I have taken/taking and their files.
+The Coursera courses I have taken/taking and their files.
